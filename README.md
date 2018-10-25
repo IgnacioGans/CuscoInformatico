@@ -6,6 +6,8 @@ Command Stylus:
 
   stylus -w -c leading.styl
   
+  stylus -w -c bycars.styl
+  
   ----------o--------------------
   
  SIDEBAR Sublime Text- Change the font size of text the sidebar.
