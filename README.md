@@ -21,6 +21,12 @@ Command Stylus:
     },
 ]
 
+Idioma - Function PHP
+
+<?php _e("[:es][:en][:de][:fr][:]") ?>
+
+
+
 
 jQuery 
 Tareas #1
