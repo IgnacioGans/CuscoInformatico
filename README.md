@@ -23,7 +23,7 @@ Command Stylus:
 
 Idioma - Function PHP
 
-<?php _e("[:es][:en][:de][:fr][:]") ?>
+< ? php _e("[:es][:en][:de][:fr][:]")  ? >
 
 
 
